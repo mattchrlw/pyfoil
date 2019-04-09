@@ -13,7 +13,8 @@ The functions must be run in this sequence. The program also contains some lines
 
 ## Usage
 To run, this script requires a Windows system as this is what XFOIL is based on.
-1. Copy the files from `XFOIL.zip` (see XFOIL website) into the same directory as the `pyfoil3.py` file.
-2. Edit `pyfoil3.py` to run the required functions to make a database.
-3. Run `pyfoil3.py` in a Windows command line.
+1. Create the empty directories `csv`, `dat`, `datexcl` and `pol` in this folder.
+2. Copy the files from `XFOIL.zip` (see XFOIL website) into the same directory as the `pyfoil3.py` file.
+3. Edit `pyfoil3.py` to run the required functions to make a database.
+4. Run `pyfoil3.py` in a Windows command line.
 
