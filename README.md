@@ -1,5 +1,5 @@
 # PyFoil
-A Python script that pulls and parses aerodynamic data for various airfoils into a spreadsheet. Made in early 2018.
+A Python script that pulls and parses aerodynamic data for various airfoils into a spreadsheet. Made in early 2018 (this is not the highest quality code as a result...)
 
 ## Details
 This script was made in early 2018 for the UQ Racing team. A database for aerofoil information would be highly beneficial for the team’s aerodynamic development, as it would provide a centralised location for the newly formed aero development team to quantitatively compare different aerofoil shapes with information such as thickness, camber, leading edge, trailing edge as well as lift and drag coeffficients at various AoA (angles of attack). The script pulls data for a number of airfoils from [Airfoil Tools](http://airfoiltools.com/) and parses it through the [XFOIL](https://web.mit.edu/drela/Public/web/xfoil/) program. 
